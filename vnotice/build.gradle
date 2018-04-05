@@ -35,6 +35,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile 'org.webjars.bower:bootstrap:4.0.0'
+	compile 'nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:2.0.5'
 	
 	compile 'mysql:mysql-connector-java:5.1.6'
 	providedRuntime('org.springframework.boot:spring-boot-starter-tomcat')

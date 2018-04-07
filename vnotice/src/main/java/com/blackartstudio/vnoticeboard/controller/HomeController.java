@@ -13,6 +13,7 @@ import com.blackartstudio.vnoticeboard.repository.BoardRepository;
 @Controller
 public class HomeController {
 	
+	
 	public static final Logger LOGGER=LoggerFactory.getLogger(HomeController.class);
 	
 	
